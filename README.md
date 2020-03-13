@@ -1,3 +1,5 @@
+# filesopds
+filesopds - rebuild of nextcloud files_opds - API 18 style
 # FilesOpds
 Place this app in **nextcloud/apps/**
 
