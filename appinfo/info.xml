@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>filesopds</id>
+    <name>Files Opds provider</name>
+    <summary>OPDS library supplier for Nextcloud</summary>
+    <description>OPDS provider for Nextcloud</description>
+    <version>0.0.2</version>
+    <licence>agpl</licence>
+    <author mail="files_opds@noci.work" >Noci</author>
+    <namespace>FilesOpds</namespace>
+    <category>files</category>
+    <bugs>https://github.com/noci2012/files_opds</bugs>
+    <dependencies>
+        <nextcloud min-version="15" max-version="19"/>
+    </dependencies>
+    <settings>
+        <admin>OCA\FilesOpds\Settings\Admin</admin>
+        <admin-section>OCA\FilesOpds\Settings\ASection</admin-section>
+        <personal>OCA\FilesOpds\Settings\Personal</personal>
+        <personal-section>OCA\FilesOpds\Settings\OpdsSection</personal-section>
+    </settings>
+    <navigations>
+        <navigation>
+            <name>FilesOpds</name>
+            <route>filesopds.page.index</route>
+        </navigation>
+    </navigations>
+</info>

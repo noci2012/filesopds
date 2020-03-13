@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg5261"
+   version="1.1"
+   viewBox="0 0 32 32"
+   width="32"
+   height="32">
+  <metadata
+     id="metadata5267">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5265" />
+  <g
+     style="fill:#060000;fill-opacity:1"
+     id="layer1"
+     transform="translate(1.4457782,-1020.2752)">
+    <path
+       d="m 11.168042,1021.5246 c -2.2036689,-1.0138 -6.5467059,0.9451 -7.7942059,2.6697 -0.555819,0.7717 -0.516525,1.3278 -0.516525,1.6433 v 16.8796 l 16.2867569,8.8577 3.062736,-1.4617 v -16.4387 l -16.7222168,-8.3914 c 0.897356,-0.9871 2.9155749,-2.1908 4.4288007,-1.7074 l 14.8949581,6.9633 v 18.3129 l 3.070508,-1.4642 v -18.3122 z"
+       id="path2989"
+       style="fill:#060000;fill-opacity:1" />
+  </g>
+  <text
+     id="text3335"
+     y="11.710122"
+     x="6.2117367"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-size:40px;line-height:1.25"
+       y="11.710122"
+       x="6.2117367"
+       id="tspan3337"> </tspan></text>
+  <g
+     style="fill:#fcfcfc;fill-opacity:1"
+     id="g3673"
+     transform="matrix(0.01369405,0.00618385,0,0.01584184,5.2784422,6.7218015)">
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3675">
+      <g
+         style="fill:#fcfcfc;fill-opacity:1"
+         id="g3677">
+        <g
+           style="fill:#fcfcfc;fill-opacity:1"
+           id="g3679">
+          <path
+             style="fill:#fcfcfc;fill-opacity:1"
+             id="path3681"
+             d="m 829.2,664.9 c -36.4,0 -69.8,12.2 -96.8,32.6 l -401.2,-193.9 0.4,-7.3 400.8,-193.7 c 26.9,20.4 60.3,32.6 96.8,32.6 88.9,0 160.9,-72 160.9,-160.9 0,-88.9 -72,-160.9 -160.8,-160.9 -88.9,0 -160.9,72 -160.9,160.9 v 0.1 L 271,366.4 C 243.5,344.5 208.7,331.2 170.9,331.2 82,331.3 10,403.3 10,492.2 10,581 82,653 170.9,653 c 32.1,0 62,-9.5 87.1,-25.7 l 410.3,198.3 v 0.2 c 0,88.8 72,160.9 160.9,160.9 88.9,0 160.8,-72 160.8,-160.9 0,-88.9 -72,-160.9 -160.8,-160.9 z" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3683" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3685" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3687" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3689" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3691" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3693" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3695" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3697" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3699" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3701" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3703" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3705" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3707" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3709" />
+    <g
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="g3711" />
+  </g>
+</svg>

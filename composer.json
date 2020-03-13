@@ -1,0 +1,15 @@
+{
+    "name": "noci2012/filesopds",
+    "description": "OPDS library supplier for Nextcloud",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Noci"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
